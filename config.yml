@@ -1,4 +1,4 @@
-baseURL: "https://sansho.github.io/"
+baseURL: "https://san-sho.github.io/"
 canonifyurls: false
 publishDir: "docs"
 title: Sansho
@@ -80,7 +80,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/okaponta/profile/content"
+    URL: "https://github.com/san-sho/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
